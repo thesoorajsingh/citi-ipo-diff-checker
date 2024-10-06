@@ -30,17 +30,11 @@ This Chrome extension allows you to easily check for any new additions / removal
 ### Step 4: Pin the Extension (Optional)
 
 1. Click the puzzle piece icon (Extensions) in the Chrome toolbar.
-2. Find "GitHub Account Switcher" in the list and click the pin icon next to it. This will make the extension visible in the toolbar.
+2. Find "CITIBANK IPO CHECKER" in the list and click the pin icon next to it. This will make the extension visible in the toolbar.
 
 ### Step 5: Using the Extension
 
-1. Click on the GitHub Account Switcher icon in the toolbar.
-2. Use the buttons to switch between your two GitHub accounts.
-
-### Notes
-
-- This extension uses Chrome's \`cookies\` API to manage session cookies for GitHub.
-- Make sure to log into each account manually first, then the extension will store your session and allow you to switch between them.
+Coming Soon!
 
 ## License
 
