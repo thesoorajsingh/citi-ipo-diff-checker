@@ -8,10 +8,6 @@ This Chrome extension allows you to easily check for any new additions / removal
 
 1. Clone the repository or download the source files:
 
-```bash
-   git clone https://github.com/your-username/github-account-switcher.git
-```
-
 2. Alternatively, download the repository as a ZIP file and extract it to a directory on your computer.
 
 ### Step 2: Enable Developer Mode in Chrome
